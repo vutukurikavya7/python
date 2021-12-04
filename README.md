@@ -1,2 +1,2 @@
 # python
-python lab programs
+python programming
